@@ -1,0 +1,25 @@
+# Personal photos used for testing — do NOT upload
+Pictures/
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.bak
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Script artifacts
+*.tmp.jpg
+*.tmp.tiff
